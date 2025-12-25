@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=%3E+RISHI+RAJ+_;INITIALIZING+NEURAL+CORE...;VIT+BHOPAL+UNIVERSITY;AIML+ENGINEER" alt="Terminal Header" />
+</p>
 
-<!--
-**rishi232/rishi232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 System Specifications (About Me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class RishiRaj:
+    def __init__(self):
+        self.identity = "Rishi Raj"
+        self.location = "VIT Bhopal University"
+        self.major    = "AI & Machine Learning"
+        self.stack    = ["Neural Networks", "Deep Learning", "Computer Vision"]
+        self.goal     = "Building AGI for the future."
+
+    def contact(self):
+        return "rishi.raj@vitbhopal.ac.in"
+
+
