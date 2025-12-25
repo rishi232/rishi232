@@ -15,7 +15,6 @@ class RishiRaj:
         self.stack    = ["Neural Networks", "Deep Learning", "Computer Vision"]
         self.goal     = "Building AGI for the future."
 
-    def contact(self):
-        return "rishi.raj@vitbhopal.ac.in"
+
 
 
